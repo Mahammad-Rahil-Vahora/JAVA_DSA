@@ -11,7 +11,7 @@ public class merge2SortedArray {
         }
     }
 
-    public static void merge(int [] a,int [] b,int [] c){
+    public static void merge(int [] c,int [] a,int [] b){
         int i = 0; // Array a pointer
         int j = 0; // Array b pointer
         int k = 0; // Array c pointer
