@@ -1,6 +1,6 @@
 package Binary_Search;
 
-public class singeAmongDouble {
+public class SingeAmongDouble {
     static void main(String[] args) {
         int [] arr = {1,1,2,2,3,3,4,8,8};
         int ans = findSingleEle(arr);
