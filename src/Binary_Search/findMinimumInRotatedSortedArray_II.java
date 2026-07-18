@@ -18,8 +18,9 @@ public class findMinimumInRotatedSortedArray_II {
         while (low < high){
             int mid = low + (high-low)/2;
 
-            if (arr[mid] >= arr[high]) low = mid + 1;
-            else high = mid;
+            if (arr[mid] > arr[high]) low = mid + 1;
+            else if (arr[mid] < arr[high]) high = mid;
+            else high--;
         }
 
         return arr[low];
