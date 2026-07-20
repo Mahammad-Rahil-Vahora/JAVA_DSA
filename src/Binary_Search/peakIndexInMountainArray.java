@@ -1,4 +1,4 @@
-package Binary_Search;
+package GFG;
 
 public class peakIndexInMountainArray {
     static void main(String[] args) {
