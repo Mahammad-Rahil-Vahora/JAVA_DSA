@@ -30,7 +30,7 @@ public class medianOfTwoSortedArray {
 //            System.out.println((c[p/2] + c[p/2-1])/2.0);
 //        }
 
-        // METHOD 1 Optimal Approach (Binary Search)
+        // METHOD 2 Optimal Approach (Binary Search)
         int[] a = {1, 3, 7, 9, 10, 13, 21};
         int[] b = {2, 5, 7, 13, 15, 17, 20};
         double ans = median(a, b);
@@ -71,15 +71,6 @@ public class medianOfTwoSortedArray {
             else low = partition_1 + 1;
         }
 
-        return 0;
-
-
-
-
-
-
-
-
-
+        return 0.0;
     }
 }

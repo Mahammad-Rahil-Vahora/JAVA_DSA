@@ -21,7 +21,7 @@ public class kTHmissingPositiveNumber {
             int mid = low + (high-low)/2;
 
             nMissingEle = arr[mid] - (mid + 1);
-            if (nMissingEle <= k) low = mid + 1;
+            if (nMissingEle < k) low = mid + 1;
             else high = mid - 1;
         }
 
