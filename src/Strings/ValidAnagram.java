@@ -14,7 +14,7 @@ public class ValidAnagram {
 
        boolean ans = check(s,t);
        System.out.println(ans);
-    }
+   }
 
     public static boolean check(String s, String t) {
         if(s.length() != t.length()) return false;
