@@ -1,3 +1,5 @@
+package GFG.Array;
+
 import java.util.Scanner;
 
 public class rotateArray {

@@ -1,3 +1,5 @@
+package GFG.Array;
+
 public class sumOfElements {
     public static void main(String[] args) {
         int [] arr = {2,3,-1,-4,-3,57,89};

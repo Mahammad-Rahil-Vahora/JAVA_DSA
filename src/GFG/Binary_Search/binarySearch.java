@@ -1,4 +1,4 @@
-package GFG;
+package GFG.Binary_Search;
 
 public class binarySearch {
     static void main(String[] args) {

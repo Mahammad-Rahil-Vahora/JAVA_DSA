@@ -1,4 +1,4 @@
-package GFG;
+package GFG.String;
 
 public class StringCompression {
     static void main(String[] args) {

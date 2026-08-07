@@ -1,8 +1,8 @@
-package GFG;
+package GFG.String;
 
 public class sqrtOfX {
     public static void main(String[] args) {
-        int X = 16;
+        int X = 10;
         int ans = sqrt(X);
         System.out.println(ans);
     }

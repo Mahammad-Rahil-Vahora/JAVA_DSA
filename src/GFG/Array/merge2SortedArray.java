@@ -1,3 +1,5 @@
+package GFG.Array;
+
 public class merge2SortedArray {
     public static void main(String[] args) {
         int [] a = {2,4,7,9};

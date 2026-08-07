@@ -1,6 +1,6 @@
 package Strings;
 
-public class IsSubsequence {
+public class  IsSubsequence {
     static void main(String[] args) {
         String s = "abc";
         String t = "ahbdgc";

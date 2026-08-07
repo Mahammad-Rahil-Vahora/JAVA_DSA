@@ -1,4 +1,4 @@
-package Binary_Search;
+package GFG.Array;
 
 import java.util.ArrayList;
 
