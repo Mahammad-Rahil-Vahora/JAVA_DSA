@@ -1,4 +1,4 @@
-package GFG;
+package GFG.Array;
 
 public class findMinimumInRotatedSortedArray {
     static void main(String[] args) {

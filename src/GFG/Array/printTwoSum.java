@@ -1,3 +1,5 @@
+package GFG.Array;
+
 public class printTwoSum {
     public static void main(String[] args) {
         int [] arr = {1,5,7,8};

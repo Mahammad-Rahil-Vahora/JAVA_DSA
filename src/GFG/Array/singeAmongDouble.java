@@ -1,4 +1,4 @@
-package Binary_Search;
+package GFG.Array;
 
 public class singeAmongDouble {
     static void main(String[] args) {

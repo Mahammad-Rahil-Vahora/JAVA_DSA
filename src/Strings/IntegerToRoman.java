@@ -4,7 +4,6 @@ public class IntegerToRoman {
     static void main(String[] args) {
 
         int num = 1994;
-        int x = 0;
 
         int[] value = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
 
@@ -19,6 +18,7 @@ public class IntegerToRoman {
                 num -= value[i];
             }
         }
+//        int x = 0;
 //        String ans = "";
 //
 //        while(num > 0) {

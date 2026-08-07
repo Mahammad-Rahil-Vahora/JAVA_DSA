@@ -1,3 +1,5 @@
+package GFG.Array;
+
 public class missingNumber {
     public static void main(String[] args) {
         int [] arr = {1,5,3,4,6,9,7,2};
